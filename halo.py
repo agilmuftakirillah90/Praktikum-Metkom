@@ -1,0 +1,6 @@
+"print("#/============================================/")
+"print("#/                                            /")
+"print("#/              Program halo.py               /")    
+"print("#/   by agilmuftakirillah90@mail.ugm.ac.id    /")
+"print("#/                                            /")
+"print("#/============================================/")
